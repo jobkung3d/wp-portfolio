@@ -3,19 +3,30 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "next dev --hostname 0.0.0.0",
-    "build": "next build",
-    "start": "next start --hostname 0.0.0.0",
+    "dev": "vite dev --host 0.0.0.0 --port 3000",
+    "build": "vite build",
+    "start": "vite preview --host 0.0.0.0 --port 3000",
     "typecheck": "tsc --noEmit",
     "format": "prettier --write .",
-    "format:check": "prettier --check ."
+    "format:check": "prettier --check .",
+    "check:vinext": "vinext check",
+    "dev:next": "next dev --hostname 0.0.0.0",
+    "build:next": "next build",
+    "start:next": "next start --hostname 0.0.0.0",
+    "deploy": "vinext-cloudflare deploy",
+    "types:workers": "cf workers types",
+    "dev:vinext": "vite dev --host 0.0.0.0 --port 3000",
+    "build:vinext": "vite build"
   },
   "dependencies": {
     "gsap": "^3.14.2",
     "lucide-react": "^0.468.0",
     "next": "^16.4.5",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0"
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "react-server-dom-webpack": "^19.3.1",
+    "vinext": "^1.4.5",
+    "@vinext/cloudflare": "^1.3.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4.1.0",
@@ -24,6 +35,15 @@
     "@types/react-dom": "^19.0.0",
     "prettier": "^3.9.10",
     "tailwindcss": "^4.1.0",
-    "typescript": "^5.9.0"
+    "typescript": "^5.9.0",
+    "@vitejs/plugin-react": "^6.0.0",
+    "@vitejs/plugin-rsc": "^0.5.37",
+    "vite": "8.3.0",
+    "@cloudflare/vite-plugin": "beta",
+    "cf": "latest"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=22"
   }
 }

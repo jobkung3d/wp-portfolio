@@ -2,3 +2,9 @@ node_modules/
 .next/
 .npm-cache/
 *.tsbuildinfo
+
+# vinext / Vite output
+dist/
+.vinext/
+.cloudflare/
+.wrangler/
