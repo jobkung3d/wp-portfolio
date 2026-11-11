@@ -1,0 +1,313 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]:
+    - link "Skip to content" [ref=f1e3] [cursor=pointer]:
+      - /url: "#main"
+    - banner [ref=f1e4]:
+      - link "Alex Morgan home" [ref=f1e5] [cursor=pointer]:
+        - /url: "#"
+        - text: am✳
+      - navigation "Main navigation" [ref=f1e6]:
+        - link "Home" [ref=f1e7] [cursor=pointer]:
+          - /url: "#main"
+        - link "About" [ref=f1e8] [cursor=pointer]:
+          - /url: "#about"
+        - link "Work" [ref=f1e9] [cursor=pointer]:
+          - /url: "#work"
+        - link "Notes" [ref=f1e10] [cursor=pointer]:
+          - /url: "#notes"
+        - link "Let’s talk" [ref=f1e11] [cursor=pointer]:
+          - /url: "#contact"
+      - link "Available for select projects" [ref=f1e15] [cursor=pointer]:
+        - /url: "#contact"
+    - main [ref=f1e17]:
+      - generic [ref=f1e18]:
+        - generic [ref=f1e19]:
+          - generic [ref=f1e20]:
+            - generic [ref=f1e21]: INDEPENDENT DEVELOPER & CREATIVE THINKER
+            - heading [level=1] [ref=f1e23]:
+              - text: Good ideas deservea
+              - emphasis [ref=f1e24]: great experience.
+            - paragraph [ref=f1e25]: Thoughtfully designed. Carefully built. A little unexpected.
+          - link "Explore selected work" [ref=f1e26] [cursor=pointer]:
+            - /url: "#work"
+            - text: DESIGN MEETS DEVELOPMENT
+            - generic [ref=f1e27]: ✳
+            - generic [ref=f1e28]: SCROLL TO EXPLORE
+        - generic [ref=f1e31]:
+          - generic [ref=f1e32]:
+            - figure "always curious." [ref=f1e33]:
+              - img "Deer in a quiet green forest" [ref=f1e34]
+            - figure "a face behind the pixels." [ref=f1e36]:
+              - img "Alex, enjoying a day outdoors" [ref=f1e37]
+            - figure "perspective, everywhere." [ref=f1e39]:
+              - img "Sunlight meeting the ocean" [ref=f1e40]
+            - generic [ref=f1e42]:
+              - text: a few things that make me, me
+              - generic [ref=f1e43]: ↗
+          - generic [ref=f1e44]:
+            - paragraph [ref=f1e45]: Developer by trade.Creator at heart.
+            - generic [ref=f1e46]:
+              - text: Alex
+              - emphasis [ref=f1e47]: Morgan
+              - generic [ref=f1e48]: ✳
+            - generic [ref=f1e49]: BASED IN LONDON · BUILDING EVERYWHERE
+      - generic [ref=f1e50]:
+        - link "RIGHT NOW Making good things happen Independent · Open to collaboration" [ref=f1e51] [cursor=pointer]:
+          - /url: "#about"
+          - generic [ref=f1e52]: RIGHT NOW
+          - strong [ref=f1e57]: Making good things happen
+          - generic [ref=f1e58]: Independent · Open to collaboration
+        - link "THE WORKSHOP Ideas turned into interfaces A selection of recent work" [ref=f1e59] [cursor=pointer]:
+          - /url: "#work"
+          - generic [ref=f1e60]: THE WORKSHOP
+          - strong [ref=f1e65]: Ideas turned into interfaces
+          - generic [ref=f1e66]: A selection of recent work
+        - link "FIELD NOTES Learning in the open Thoughts, process & experiments" [ref=f1e67] [cursor=pointer]:
+          - /url: "#notes"
+          - generic [ref=f1e68]: FIELD NOTES
+          - strong [ref=f1e73]: Learning in the open
+          - generic [ref=f1e74]: Thoughts, process & experiments
+        - link "HAVE SOMETHING IN MIND? Let’s make it happen" [ref=f1e75] [cursor=pointer]:
+          - /url: "#contact"
+          - generic [ref=f1e76]: HAVE SOMETHING IN MIND?
+          - strong [ref=f1e77]: Let’s make it happen
+      - region "How I work" [ref=f1e82]:
+        - generic [ref=f1e83]:
+          - article [ref=f1e84]:
+            - generic [ref=f1e85]: THE APPROACH
+            - heading "Small details. Big difference." [level=3] [ref=f1e86]
+            - paragraph [ref=f1e87]: I connect the dots between how it looks,how it feels, and how it works.
+            - generic [ref=f1e88]:
+              - generic [ref=f1e89]:
+                - generic [ref=f1e90]: "01"
+                - strong [ref=f1e91]: Think.
+                - generic [ref=f1e92]: Ask better questions
+              - generic [ref=f1e93]: ↗
+              - generic [ref=f1e94]:
+                - generic [ref=f1e95]: "02"
+                - strong [ref=f1e96]: Make.
+                - generic [ref=f1e97]: Explore the possibilities
+              - generic [ref=f1e98]: ↗
+              - generic [ref=f1e99]:
+                - generic [ref=f1e100]: "03"
+                - strong [ref=f1e101]: Refine.
+                - generic [ref=f1e102]: Make every detail count
+            - generic [ref=f1e103]: GOOD THINGS TAKE INTENTION
+          - article [ref=f1e105]:
+            - generic [ref=f1e106]: TOOLS OF THE TRADE
+            - heading "The stack behind the craft." [level=3] [ref=f1e107]
+            - generic [ref=f1e108]:
+              - generic [ref=f1e109]: Next.js
+              - generic [ref=f1e114]: React
+              - generic [ref=f1e119]: TypeScript
+              - generic [ref=f1e124]: Tailwind CSS
+              - generic [ref=f1e129]: GSAP
+              - generic [ref=f1e134]: Figma
+              - generic [ref=f1e139]: Node.js
+              - generic [ref=f1e144]: PostgreSQL
+              - generic [ref=f1e149]: Python
+              - generic [ref=f1e154]: Vercel
+              - generic [ref=f1e159]: Git
+              - generic [ref=f1e164]: Docker
+            - group "Filter technologies" [ref=f1e169]:
+              - button "All" [ref=f1e170] [cursor=pointer]
+              - button "Frontend" [ref=f1e172] [cursor=pointer]
+              - button "Backend" [ref=f1e174] [cursor=pointer]
+              - button "Tools" [ref=f1e176] [cursor=pointer]
+          - article [ref=f1e178]:
+            - generic [ref=f1e183]: FROM FIRST SKETCH TO FINAL SHIP
+            - heading "Design-minded. Engineering-driven." [level=3] [ref=f1e184]: Design-minded.Engineering-driven.
+            - paragraph [ref=f1e185]: Clear interfaces. Clean code.Built to stand the test of time.
+          - article [ref=f1e186]:
+            - generic [ref=f1e187]: A SMALL WORLD
+            - heading "Different time zones. Same wavelength." [level=3] [ref=f1e188]: Different time zones.Same wavelength.
+            - generic [ref=f1e189]: London, UK
+            - generic [ref=f1e197]: REMOTE, WITH A HUMAN TOUCH
+          - article [ref=f1e199]:
+            - generic [ref=f1e200]: OFF THE CLOCK
+            - heading "A little life between the lines." [level=3] [ref=f1e201]
+            - generic [ref=f1e202]:
+              - generic [ref=f1e203]: ♫
+              - generic [ref=f1e204]: ☕
+              - generic [ref=f1e205]: ↗
+              - generic [ref=f1e206]: ⌘
+            - paragraph [ref=f1e207]: Long walks. Good coffee.A playlist for absolutely everything.
+            - generic [ref=f1e208]: CURIOSITY DOESN’T CLOCK OUT
+      - generic [ref=f1e212]:
+        - generic [ref=f1e213]:
+          - generic [ref=f1e214]: A FEW RECENT FAVORITES
+          - heading [level=2] [ref=f1e215]:
+            - text: Selected
+            - emphasis [ref=f1e216]: work.
+          - paragraph [ref=f1e217]: A little strategy, a lot of care, and something worth putting into the world.
+        - article [ref=f1e218]:
+          - button "View Forma case study" [ref=f1e219] [cursor=pointer]:
+            - generic [ref=f1e220]:
+              - generic [ref=f1e221]:
+                - strong [ref=f1e222]: forma
+                - generic [ref=f1e223]: WORKSPACE
+                - paragraph [ref=f1e224]: ◫ Overview
+                - paragraph [ref=f1e225]:
+                  - text: ☑ My tasks
+                  - generic [ref=f1e226]: "8"
+                - paragraph [ref=f1e227]: ▤ Notes
+                - paragraph [ref=f1e228]: ◷ Calendar
+                - generic [ref=f1e229]: YOUR PROJECTS
+                - paragraph [ref=f1e230]: ◦ Website redesign
+                - paragraph [ref=f1e231]: ◦ Brand exploration
+                - generic [ref=f1e232]: AM Alex Morgan
+              - generic [ref=f1e233]:
+                - generic [ref=f1e234]: Workspace / Overview
+                - generic [ref=f1e238]: MONDAY, MAY 19
+                - heading "A little room to focus." [level=4] [ref=f1e239]
+                - paragraph [ref=f1e240]: Let’s make space for your best work.
+                - generic [ref=f1e241]:
+                  - generic [ref=f1e242]:
+                    - text: In progress
+                    - strong [ref=f1e243]:
+                      - text: "08"
+                      - generic [ref=f1e244]: ↗
+                  - generic [ref=f1e245]:
+                    - text: Completed
+                    - strong [ref=f1e246]:
+                      - text: "24"
+                      - generic [ref=f1e247]: ✓
+                - heading "Your priorities This week ↓" [level=5] [ref=f1e248]:
+                  - text: Your priorities
+                  - generic [ref=f1e249]: This week ↓
+                - generic [ref=f1e250]:
+                  - text: Explore homepage concepts
+                  - generic [ref=f1e252]: Design
+                - generic [ref=f1e253]:
+                  - text: Refine the design system
+                  - generic [ref=f1e255]: Build
+                - generic [ref=f1e256]:
+                  - text: A fresh perspective
+                  - generic [ref=f1e258]: Ideas
+          - generic [ref=f1e263]:
+            - generic [ref=f1e264]: 01 / DIGITAL PRODUCT
+            - heading "Forma" [level=3] [ref=f1e265]
+            - heading "A little less noise. A lot more focus." [level=4] [ref=f1e269]
+            - paragraph [ref=f1e270]: A considered workspace for people who make things. Tasks, notes, and ideas, finally in one place.
+            - generic [ref=f1e271]:
+              - generic [ref=f1e272]: Next.js
+              - generic [ref=f1e273]: TypeScript
+              - generic [ref=f1e274]: PostgreSQL
+            - button "Explore the case study" [ref=f1e275] [cursor=pointer]
+        - article [ref=f1e278]:
+          - button "View Wavelength case study" [ref=f1e279] [cursor=pointer]:
+            - generic [ref=f1e280]:
+              - generic [ref=f1e281]:
+                - text: 〰 wavelength
+                - generic [ref=f1e282]: DISCOVER LIBRARY ↗
+              - generic [ref=f1e283]: TUNE INTO SOMETHING NEW
+              - heading [level=4] [ref=f1e284]:
+                - text: Less searching.
+                - emphasis [ref=f1e286]: More feeling.
+              - generic [ref=f1e287]:
+                - generic [ref=f1e288]:
+                  - text: afternoon
+                  - emphasis [ref=f1e290]: drift.
+                - generic [ref=f1e291]:
+                  - text: afterhours
+                  - generic [ref=f1e293]: ✳
+                - generic [ref=f1e294]:
+                  - text: slow
+                  - emphasis [ref=f1e296]: mornings
+              - generic [ref=f1e297]:
+                - text: ▶
+                - generic [ref=f1e298]:
+                  - text: Somewhere, softly
+                  - generic [ref=f1e299]: Daydream Club
+                - text: 02:34 ♫
+          - generic [ref=f1e305]:
+            - generic [ref=f1e306]: 02 / CREATIVE DEVELOPMENT
+            - heading "Wavelength" [level=3] [ref=f1e307]
+            - heading "Find your next favorite feeling." [level=4] [ref=f1e311]
+            - paragraph [ref=f1e312]: An immersive music discovery experience that connects independent artists with curious listeners.
+            - generic [ref=f1e313]:
+              - generic [ref=f1e314]: React
+              - generic [ref=f1e315]: Web Audio
+              - generic [ref=f1e316]: GSAP
+            - button "Explore the case study" [ref=f1e317] [cursor=pointer]
+      - generic [ref=f1e320]:
+        - generic [ref=f1e321]:
+          - generic [ref=f1e322]: A HUMAN BEHIND THE SCREEN
+          - heading [level=2] [ref=f1e323]:
+            - text: A developer.And a little bit
+            - emphasis [ref=f1e324]: of everything.
+          - paragraph [ref=f1e325]: I’m Alex, an independent creative developer who cares just as much about the feeling of a product as the code behind it.
+          - paragraph [ref=f1e326]: I work with thoughtful people to turn complex ideas into simple, expressive digital experiences. From the first “what if” to the final little interaction.
+          - paragraph [ref=f1e327]: When the laptop closes, you’ll find me somewhere outside, hunting down a good coffee, or getting lost in a new album.
+          - link "Enough about me. What about you?" [ref=f1e328] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=f1e332]:
+          - generic [ref=f1e333]: A WORK IN PROGRESS. ALWAYS.
+          - generic [ref=f1e334]:
+            - img "Alex outdoors, away from the screen" [ref=f1e335]
+            - generic [ref=f1e336]: hello, i'm alex :)
+          - generic [ref=f1e337]: ✳
+          - generic [ref=f1e338]: MADE OFCURIOSITY ↗
+          - generic [ref=f1e340]: 51.5072° N 0.1276° W
+      - generic [ref=f1e341]:
+        - generic [ref=f1e342]:
+          - generic [ref=f1e343]:
+            - generic [ref=f1e344]: FROM THE NOTEBOOK
+            - heading [level=2] [ref=f1e345]:
+              - text: Thinking
+              - emphasis [ref=f1e346]: out loud.
+          - generic [ref=f1e347]: Things I’m learning.Ideas I’m working through.
+        - generic [ref=f1e348]:
+          - group [ref=f1e349]:
+            - generic "01 — FIELD NOTES DESIGN & DEVELOPMENT ↗ The little interactions that make a big difference 6 MIN READ · 2026" [ref=f1e350] [cursor=pointer]:
+              - generic [ref=f1e351]: 01 — FIELD NOTES
+              - generic [ref=f1e358]:
+                - text: DESIGN & DEVELOPMENT
+                - generic [ref=f1e359]: ↗
+              - heading "The little interactions that make a big difference" [level=3] [ref=f1e360]
+              - generic [ref=f1e361]: 6 MIN READ · 2026
+          - group [ref=f1e362]:
+            - generic "02 — FIELD NOTES PROCESS & PRACTICE ↗ Building less, but building it better 4 MIN READ · 2026" [ref=f1e363] [cursor=pointer]:
+              - generic [ref=f1e364]: 02 — FIELD NOTES
+              - generic [ref=f1e373]:
+                - text: PROCESS & PRACTICE
+                - generic [ref=f1e374]: ↗
+              - heading "Building less, but building it better" [level=3] [ref=f1e375]
+              - generic [ref=f1e376]: 4 MIN READ · 2026
+          - group [ref=f1e377]:
+            - generic "03 — FIELD NOTES TOOLS & EXPERIMENTS ↗ A creative developer’s everyday toolkit 5 MIN READ · 2026" [ref=f1e378] [cursor=pointer]:
+              - generic [ref=f1e379]: 03 — FIELD NOTES
+              - generic [ref=f1e386]:
+                - text: TOOLS & EXPERIMENTS
+                - generic [ref=f1e387]: ↗
+              - heading "A creative developer’s everyday toolkit" [level=3] [ref=f1e388]
+              - generic [ref=f1e389]: 5 MIN READ · 2026
+      - generic [ref=f1e390]:
+        - generic [ref=f1e391]: OPEN FOR GOOD CONVERSATIONS
+        - heading "Something on your mind? Let’s make it real. ↗" [level=2] [ref=f1e393]:
+          - text: Something on your mind?Let’s
+          - emphasis [ref=f1e394]: make it real.
+          - generic [ref=f1e395]: ↗
+        - generic [ref=f1e396]:
+          - paragraph [ref=f1e397]: A new project, a wild idea, or just a hello.My inbox is a pretty friendly place.
+          - link "Say hello" [ref=f1e398] [cursor=pointer]:
+            - /url: mailto:hello@alexmorgan.studio
+          - button "Copy email address" [ref=f1e402] [cursor=pointer]
+      - generic [ref=f1e403]:
+        - link "am✳" [ref=f1e404] [cursor=pointer]:
+          - /url: "#"
+        - generic [ref=f1e405]: © 2026 Alex Morgan
+        - generic [ref=f1e406]: Designed with intention. Built with care.
+        - link "GitHub" [ref=f1e407] [cursor=pointer]:
+          - /url: https://github.com
+        - link "LinkedIn" [ref=f1e411] [cursor=pointer]:
+          - /url: https://linkedin.com
+        - link "Email" [ref=f1e416] [cursor=pointer]:
+          - /url: mailto:hello@alexmorgan.studio
+        - link "BACK TO TOP ↑" [ref=f1e420] [cursor=pointer]:
+          - /url: "#main"
+      - generic [ref=f1e421]:
+        - text: stay curious
+        - generic [ref=f1e422]: ✳
+  - button "Open Next.js Dev Tools" [ref=f1e428] [cursor=pointer]
+  - alert [ref=f1e432]

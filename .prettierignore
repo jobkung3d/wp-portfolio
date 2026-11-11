@@ -1,0 +1,29 @@
+# Dependencies, builds, caches, and tooling output
+node_modules/
+.next/
+dist/
+build/
+.git/
+coverage/
+.npm-cache/
+.playwright-mcp/
+.agents/
+.codex/
+*.tsbuildinfo
+
+# Generated framework files and instructions
+next-env.d.ts
+AGENTS.md
+
+# Dependency lock files (npm may update its lock only when installing dependencies)
+package-lock.json
+npm-shrinkwrap.json
+yarn.lock
+pnpm-lock.yaml
+bun.lock
+bun.lockb
+
+# Minified files and assets
+**/*.min.*
+public/
+**/*.{svg,png,jpg,jpeg,gif,webp,avif,ico,pdf,woff,woff2,ttf,otf}

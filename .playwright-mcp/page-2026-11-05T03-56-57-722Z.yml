@@ -1,0 +1,666 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - navigation [ref=e4]:
+      - link "Homepage" [ref=e5] [cursor=pointer]:
+        - /url: /
+      - generic [ref=e9]:
+        - generic [ref=e11] [cursor=pointer]:
+          - generic [ref=e12]: 🌅
+          - generic [ref=e13]: Good morning
+        - button "Search (⌘K)" [ref=e14] [cursor=pointer]
+  - main [ref=e18]:
+    - region "Introduction" [ref=e19]:
+      - generic [ref=e21]:
+        - generic [ref=e22]:
+          - generic [ref=e23]:
+            - 'heading "Aayush Bharti, AI full-stack engineer: Complex web apps, from pixels to pipelines" [level=1] [ref=e24]':
+              - generic [ref=e25]: "Aayush Bharti, AI full-stack engineer:"
+              - generic [ref=e26]: Complex web apps, from pixels to
+              - generic [ref=e27]: pipelines
+            - paragraph [ref=e29]: Remote · India · 3+ years building
+          - figure [ref=e32]:
+            - link "New launch Try K e y t h m" [ref=e37] [cursor=pointer]:
+              - /url: https://keythm.aayushbharti.in/
+              - generic [ref=e38]: New launch
+              - generic [ref=e40]:
+                - text: Try
+                - generic [ref=e41]: K
+                - generic [ref=e42]: e
+                - generic [ref=e43]: "y"
+                - generic [ref=e44]: t
+                - generic [ref=e45]: h
+                - generic [ref=e46]: m
+          - generic [ref=e134]:
+            - img "Aayush Bharti close-up portrait" [ref=e139]
+            - img "Aayush Bharti professional studio headshot" [ref=e144]
+            - img "Aayush Bharti standing in the green mountains" [ref=e149]
+            - img "Aayush Bharti, full-stack developer, at his coding workstation" [ref=e154]
+          - generic [ref=e155]:
+            - paragraph [ref=e156]: AI full-stack engineer
+            - paragraph [ref=e157]:
+              - generic [ref=e158]: Aayush Bharti
+        - generic [ref=e159]:
+          - link "Now Shipping at Roboto Studio · London" [ref=e161] [cursor=pointer]:
+            - /url: /about#experience
+            - generic [ref=e163]:
+              - generic [ref=e164]: Now
+              - paragraph [ref=e172]: Shipping at
+              - generic [ref=e173]: Roboto Studio · London
+          - link "Building The Workshop Apps, sites, tools" [ref=e175] [cursor=pointer]:
+            - /url: /projects
+            - generic [ref=e177]:
+              - generic [ref=e178]: Building
+              - paragraph [ref=e186]: The Workshop
+              - generic [ref=e187]: Apps, sites, tools
+          - link "Writing Engineering reads Process & patterns" [ref=e189] [cursor=pointer]:
+            - /url: /blog
+            - generic [ref=e191]:
+              - generic [ref=e192]: Writing
+              - paragraph [ref=e200]: Engineering reads
+              - generic [ref=e201]: Process & patterns
+          - link "Reach out Start a conversation" [ref=e203] [cursor=pointer]:
+            - /url: /contact
+            - generic [ref=e205]:
+              - generic [ref=e206]: Reach out
+              - generic [ref=e209]: Start a conversation
+    - generic [ref=e224]:
+      - link "How I Work High agency, async-first, ships fast" [ref=e226] [cursor=pointer]:
+        - /url: /contact
+        - img [aria-hidden] [ref=e229]:
+          - generic [ref=e230]:
+            - generic [ref=e239]: SPEC
+            - generic [ref=e254]: DECIDED
+            - generic [ref=e257]: SHIPPED
+            - generic [ref=e258]: W1
+            - generic [ref=e259]: W2
+            - generic [ref=e260]: W3
+        - generic:
+          - paragraph: How I Work
+          - paragraph: High agency, async-first, ships fast
+      - generic [ref=e278]:
+        - generic [ref=e280]:
+          - group "Filter skills by category" [ref=e281]:
+            - button "All" [pressed] [ref=e283] [cursor=pointer]
+            - button "Frontend" [ref=e285] [cursor=pointer]
+            - button "Backend" [ref=e287] [cursor=pointer]
+            - button "AI" [ref=e289] [cursor=pointer]
+            - button "Tools" [ref=e291] [cursor=pointer]
+          - generic [ref=e294]:
+            - list [ref=e295]:
+              - listitem [ref=e296]: Next.js
+              - listitem [ref=e297]: React
+              - listitem [ref=e298]: TypeScript
+              - listitem [ref=e299]: Tailwind CSS
+              - listitem [ref=e300]: Motion.dev
+              - listitem [ref=e301]: TanStack Query
+              - listitem [ref=e302]: Zustand
+              - listitem [ref=e303]: Expo
+              - listitem [ref=e304]: CSS
+              - listitem [ref=e305]: Figma
+              - listitem [ref=e306]: Node.js
+              - listitem [ref=e307]: Python
+              - listitem [ref=e308]: FastAPI
+              - listitem [ref=e309]: PostgreSQL
+              - listitem [ref=e310]: Drizzle ORM
+              - listitem [ref=e311]: Prisma ORM
+              - listitem [ref=e312]: Redis
+              - listitem [ref=e313]: MongoDB
+              - listitem [ref=e314]: Express.js
+              - listitem [ref=e315]: Better Auth
+              - listitem [ref=e316]: Sanity CMS
+              - listitem [ref=e317]: GROQ
+              - listitem [ref=e318]: LangGraph
+              - listitem [ref=e319]: LangChain
+              - listitem [ref=e320]: RAG
+              - listitem [ref=e321]: Vector DB
+              - listitem [ref=e322]: Claude
+              - listitem [ref=e323]: ChatGPT
+              - listitem [ref=e324]: Gemini
+              - listitem [ref=e325]: Grok
+              - listitem [ref=e326]: Claude Code
+              - listitem [ref=e327]: herdr
+              - listitem [ref=e328]: Ghostty
+              - listitem [ref=e329]: Bash
+              - listitem [ref=e330]: Linux
+              - listitem [ref=e331]: Git
+              - listitem [ref=e332]: Git Worktrees
+              - listitem [ref=e333]: GitHub
+              - listitem [ref=e334]: GitHub Actions
+              - listitem [ref=e335]: Turborepo
+              - listitem [ref=e336]: Docker
+              - listitem [ref=e337]: Vercel
+              - listitem [ref=e338]: Cloudflare
+              - listitem [ref=e339]: AWS
+              - listitem [ref=e340]: PostHog
+              - listitem [ref=e341]: Notion
+              - listitem [ref=e342]: Markdown
+            - generic [ref=e344]:
+              - generic [ref=e345]: Next.js
+              - generic [ref=e346]: React
+              - generic [ref=e347]: TypeScript
+              - generic [ref=e348]: Tailwind CSS
+              - generic [ref=e349]: Motion.dev
+              - generic [ref=e350]: TanStack Query
+              - generic [ref=e351]: Zustand
+              - generic [ref=e352]: Expo
+              - generic [ref=e353]: CSS
+              - generic [ref=e354]: Figma
+              - generic [ref=e355]: Next.js
+              - generic [ref=e356]: React
+              - generic [ref=e357]: TypeScript
+              - generic [ref=e358]: Tailwind CSS
+              - generic [ref=e359]: Motion.dev
+              - generic [ref=e360]: TanStack Query
+              - generic [ref=e361]: Zustand
+              - generic [ref=e362]: Expo
+              - generic [ref=e363]: CSS
+              - generic [ref=e364]: Figma
+            - generic [ref=e366]:
+              - generic [ref=e367]: Node.js
+              - generic [ref=e368]: TypeScript
+              - generic [ref=e369]: Python
+              - generic [ref=e370]: FastAPI
+              - generic [ref=e371]: PostgreSQL
+              - generic [ref=e372]: Drizzle ORM
+              - generic [ref=e373]: Prisma ORM
+              - generic [ref=e374]: Redis
+              - generic [ref=e375]: MongoDB
+              - generic [ref=e376]: Express.js
+              - generic [ref=e377]: Better Auth
+              - generic [ref=e378]: Sanity CMS
+              - generic [ref=e379]: GROQ
+              - generic [ref=e380]: Node.js
+              - generic [ref=e381]: TypeScript
+              - generic [ref=e382]: Python
+              - generic [ref=e383]: FastAPI
+              - generic [ref=e384]: PostgreSQL
+              - generic [ref=e385]: Drizzle ORM
+              - generic [ref=e386]: Prisma ORM
+              - generic [ref=e387]: Redis
+              - generic [ref=e388]: MongoDB
+              - generic [ref=e389]: Express.js
+              - generic [ref=e390]: Better Auth
+              - generic [ref=e391]: Sanity CMS
+              - generic [ref=e392]: GROQ
+            - generic [ref=e394]:
+              - generic [ref=e395]: Python
+              - generic [ref=e396]: LangGraph
+              - generic [ref=e397]: LangChain
+              - generic [ref=e398]: RAG
+              - generic [ref=e399]: Vector DB
+              - generic [ref=e400]: Claude
+              - generic [ref=e401]: ChatGPT
+              - generic [ref=e402]: Gemini
+              - generic [ref=e403]: Grok
+              - generic [ref=e404]: Python
+              - generic [ref=e405]: LangGraph
+              - generic [ref=e406]: LangChain
+              - generic [ref=e407]: RAG
+              - generic [ref=e408]: Vector DB
+              - generic [ref=e409]: Claude
+              - generic [ref=e410]: ChatGPT
+              - generic [ref=e411]: Gemini
+              - generic [ref=e412]: Grok
+              - generic [ref=e413]: Python
+              - generic [ref=e414]: LangGraph
+              - generic [ref=e415]: LangChain
+              - generic [ref=e416]: RAG
+              - generic [ref=e417]: Vector DB
+              - generic [ref=e418]: Claude
+              - generic [ref=e419]: ChatGPT
+              - generic [ref=e420]: Gemini
+              - generic [ref=e421]: Grok
+              - generic [ref=e422]: Python
+              - generic [ref=e423]: LangGraph
+              - generic [ref=e424]: LangChain
+              - generic [ref=e425]: RAG
+              - generic [ref=e426]: Vector DB
+              - generic [ref=e427]: Claude
+              - generic [ref=e428]: ChatGPT
+              - generic [ref=e429]: Gemini
+              - generic [ref=e430]: Grok
+            - generic [ref=e432]:
+              - generic [ref=e433]: Claude Code
+              - generic [ref=e434]: herdr
+              - generic [ref=e435]: Ghostty
+              - generic [ref=e436]: Bash
+              - generic [ref=e437]: Linux
+              - generic [ref=e438]: Git
+              - generic [ref=e439]: Git Worktrees
+              - generic [ref=e440]: GitHub
+              - generic [ref=e441]: GitHub Actions
+              - generic [ref=e442]: Turborepo
+              - generic [ref=e443]: Docker
+              - generic [ref=e444]: Vercel
+              - generic [ref=e445]: Cloudflare
+              - generic [ref=e446]: AWS
+              - generic [ref=e447]: PostHog
+              - generic [ref=e448]: Notion
+              - generic [ref=e449]: Markdown
+              - generic [ref=e450]: Claude Code
+              - generic [ref=e451]: herdr
+              - generic [ref=e452]: Ghostty
+              - generic [ref=e453]: Bash
+              - generic [ref=e454]: Linux
+              - generic [ref=e455]: Git
+              - generic [ref=e456]: Git Worktrees
+              - generic [ref=e457]: GitHub
+              - generic [ref=e458]: GitHub Actions
+              - generic [ref=e459]: Turborepo
+              - generic [ref=e460]: Docker
+              - generic [ref=e461]: Vercel
+              - generic [ref=e462]: Cloudflare
+              - generic [ref=e463]: AWS
+              - generic [ref=e464]: PostHog
+              - generic [ref=e465]: Notion
+              - generic [ref=e466]: Markdown
+        - generic:
+          - paragraph: Daily Drivers
+          - paragraph: The stack behind everything I ship
+      - link [ref=e468] [cursor=pointer]:
+        - /url: /projects
+        - generic [ref=e470]:
+          - paragraph: Typed end to end
+        - generic:
+          - paragraph: What You Get
+          - paragraph: System design, typed end to end, evals & guardrails, deployed & scaling
+      - generic [ref=e520]:
+        - generic [ref=e522]:
+          - img [aria-hidden] [ref=e523]:
+            - generic [ref=e538]: Bangkok
+            - generic [ref=e547]: New Delhi
+          - group "Compare with timezone" [ref=e551]:
+            - button "Local" [pressed] [ref=e553] [cursor=pointer]
+            - button "US" [ref=e555] [cursor=pointer]
+            - button "UK" [ref=e557] [cursor=pointer]
+          - paragraph: Bangkok · 10:56 AM
+        - generic:
+          - paragraph: Remote, Worldwide
+          - paragraph: Based in India, overlapping with your hours
+      - link [ref=e560] [cursor=pointer]:
+        - /url: /uses
+        - generic [ref=e562]:
+          - generic [ref=e564]:
+            - generic [ref=e565]: Zen
+            - generic [ref=e568]: Ghostty
+            - generic [ref=e571]: herdr
+            - generic [ref=e574]: Claude Code
+            - generic [ref=e577]: Zed
+            - generic [ref=e580]: Linear
+            - generic [ref=e582]: Obsidian
+            - generic [ref=e585]: Vorssaint
+            - generic [ref=e588]: 1Password
+            - generic [ref=e590]: Cleanshot X
+            - generic [ref=e592]: Screen Studio
+            - generic [ref=e594]: Spotify
+          - paragraph: MacBook M5 Pro · 24GB · 1TB
+        - generic:
+          - paragraph: Workstation
+          - paragraph: Everything on my desk and dock
+    - generic [ref=e602]:
+      - generic [ref=e604]:
+        - paragraph [ref=e605]: CASE STUDIES
+        - heading "Curated work" [level=2] [ref=e606]
+      - generic [ref=e607]:
+        - navigation "Projects":
+          - list [ref=e608]:
+            - listitem [ref=e609]:
+              - button "Go to Keythm" [ref=e610] [cursor=pointer]
+            - listitem [ref=e612]:
+              - button "Go to Nextdemy" [ref=e613] [cursor=pointer]
+            - listitem [ref=e615]:
+              - button "Go to Venture Den" [ref=e616] [cursor=pointer]
+            - listitem [ref=e618]:
+              - button "Go to Finote" [ref=e619] [cursor=pointer]
+            - listitem [ref=e621]:
+              - button "Go to StarForge" [ref=e622] [cursor=pointer]
+        - generic:
+          - generic [ref=e624]:
+            - link [ref=e625] [cursor=pointer]:
+              - /url: /projects/keythm
+              - heading "Keythm" [level=3] [ref=e626]
+            - paragraph [ref=e627]: Web App
+          - list "Key technologies" [ref=e628]:
+            - listitem [ref=e629]: Next.js
+            - listitem [ref=e630]: Web Audio API
+            - listitem [ref=e631]: Serwist
+            - listitem [ref=e632]: Motion.dev
+        - link "View Details of Keythm" [ref=e635] [cursor=pointer]:
+          - /url: /projects/keythm
+          - generic [ref=e636]:
+            - paragraph [ref=e643]: "Keychron meets typing test: every key has its own sound"
+            - img "Keythm" [ref=e647]
+        - generic [ref=e648]:
+          - paragraph [ref=e649]: A typing test where every key plays its own mechanical switch sound, so practice feels like typing on a real keyboard.
+          - list [ref=e650]:
+            - listitem [ref=e651]:
+              - generic [ref=e654]: Four modes with live WPM and accuracy
+            - listitem [ref=e655]:
+              - generic [ref=e658]: Flags bots, auto-typers and AFK runs
+            - listitem [ref=e659]:
+              - generic [ref=e662]: Per-second WPM and consistency breakdown
+            - listitem [ref=e663]:
+              - generic [ref=e666]: Works offline as a PWA
+          - generic [ref=e667]:
+            - link "Read case study" [ref=e668] [cursor=pointer]:
+              - /url: /projects/keythm
+            - link "Live" [ref=e676] [cursor=pointer]:
+              - /url: https://keythm.aayushbharti.in
+            - link "Code" [ref=e678] [cursor=pointer]:
+              - /url: https://github.com/aayushbharti/keythm
+        - link "View Details of Nextdemy" [ref=e682] [cursor=pointer]:
+          - /url: /projects/nextdemy
+          - generic [ref=e683]:
+            - paragraph [ref=e690]: An online academy where students learn, and instructors teach and earn
+            - img "Nextdemy" [ref=e694]
+        - link "View Details of Venture Den" [ref=e697] [cursor=pointer]:
+          - /url: /projects/venture-den
+          - generic [ref=e698]:
+            - paragraph [ref=e705]: Where founders pitch ideas, get an AI score, and get upvoted by the community
+            - generic [ref=e709]:
+              - img "Venture Den screen 1" [ref=e710]
+              - img "Venture Den screen 2" [ref=e711]
+        - link "View Details of Finote" [ref=e714] [cursor=pointer]:
+          - /url: /projects/finote
+          - generic [ref=e715]:
+            - paragraph [ref=e722]: A mobile app for tracking spending across multiple wallets
+            - generic:
+              - generic:
+                - img "Finote screen 1" [ref=e725]
+                - img "Finote screen 2" [ref=e726]
+                - img "Finote screen 3" [ref=e727]
+        - link "View Details of StarForge" [ref=e730] [cursor=pointer]:
+          - /url: /projects/star-forge
+          - generic [ref=e731]:
+            - paragraph [ref=e738]: An AI SaaS landing page template with parallax depth in the hero
+            - generic [ref=e742]:
+              - img "StarForge screen 1" [ref=e743]
+              - img "StarForge screen 2" [ref=e744]
+    - link "See all projects" [ref=e748] [cursor=pointer]:
+      - /url: /projects
+    - generic [ref=e759]:
+      - generic [ref=e760]:
+        - generic [ref=e761]:
+          - paragraph [ref=e762]: KNOW ABOUT ME
+          - heading "Full-Stack Developer and a little bit of everything" [level=2] [ref=e763]
+        - generic [ref=e764]:
+          - paragraph [ref=e765]: I'm Aayush Bharti, an AI full-stack engineer who builds complex web apps end to end, from pixel-perfect UI to the LLM pipelines that power them. I keep learning because the tools change fast, and the fundamentals never stop mattering.
+          - paragraph [ref=e766]: Off the keyboard, I'm on a trail somewhere, lifting, or deep in a playlist.
+          - paragraph [ref=e767]: Currently building at Roboto Studio, solving enterprise-scale problems for teams in the UK and US.
+          - generic [ref=e768]:
+            - link "LinkedIn" [ref=e769] [cursor=pointer]:
+              - /url: https://linkedin.com/in/iaayushbharti
+            - link "GitHub" [ref=e775] [cursor=pointer]:
+              - /url: https://github.com/aayushbharti
+            - link "X" [ref=e781] [cursor=pointer]:
+              - /url: https://x.com/iaayushbharti
+        - link "Work experience" [ref=e787] [cursor=pointer]:
+          - /url: /about#experience
+      - generic [ref=e795]:
+        - button "Reveal photo" [ref=e796] [cursor=pointer]:
+          - generic [ref=e798]:
+            - generic [aria-hidden] [ref=e801]: aayushbharti.in · aayushbharti.in · aayushbharti.in · aayushbharti.in · aayushbharti.in · aayushbharti.in
+            - generic [ref=e802]:
+              - generic [aria-hidden] [ref=e806]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e812]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e818]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e824]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e830]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e836]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e842]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e848]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e854]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e860]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e866]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e872]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e878]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e884]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e890]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e896]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e902]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e908]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e914]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e920]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e926]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e932]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e938]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e944]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e950]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e956]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e962]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e968]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e974]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e980]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e986]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e992]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e998]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e1004]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e1010]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e1016]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e1022]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e1028]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e1034]: aayushbharti.in · aayushbharti.in
+              - generic [aria-hidden] [ref=e1040]: aayushbharti.in · aayushbharti.in
+            - generic [ref=e1046]:
+              - paragraph [ref=e1055]: Aayush Bharti
+              - generic [ref=e1057]:
+                - img "Aayush Bharti" [ref=e1064]
+                - paragraph [ref=e1065]: Aayush Bharti
+                - paragraph [ref=e1066]: AI Full-Stack Engineer
+        - generic [aria-hidden]:
+          - generic: wave it
+    - generic [ref=e1073]:
+      - generic [ref=e1074]:
+        - generic [ref=e1075]:
+          - paragraph [ref=e1076]: FROM THE DESK
+          - heading "Thoughts & writings" [level=2] [ref=e1077]
+        - link "Read all posts" [ref=e1079] [cursor=pointer]:
+          - /url: /blog
+      - generic [ref=e1087]:
+        - 'link "How I Run a Team of Claude Code Agents: My AI Coding Setup I Barely Type Code Anymore How I Run a Team of Claude Code Agents: My AI Coding Setup How I ship with four or more AI coding agents at once: plan first, delegate to worktrees, and let agents verify and ship their own work. 12 min read·Oct 20, 2026 Read article" [ref=e1088] [cursor=pointer]':
+          - /url: /blog/my-ai-coding-setup
+          - generic [ref=e1089]:
+            - 'img "How I Run a Team of Claude Code Agents: My AI Coding Setup" [ref=e1090]'
+            - generic [ref=e1092]: I Barely Type Code Anymore
+          - generic [ref=e1094]:
+            - 'heading "How I Run a Team of Claude Code Agents: My AI Coding Setup" [level=3] [ref=e1095]'
+            - paragraph [ref=e1096]: "How I ship with four or more AI coding agents at once: plan first, delegate to worktrees, and let agents verify and ship their own work."
+            - generic [ref=e1097]:
+              - generic [ref=e1098]:
+                - generic [ref=e1099]: 12 min read
+                - text: ·
+                - time [ref=e1100]: Oct 20, 2026
+              - generic [ref=e1101]: Read article
+        - link "What's New in Next.js 16.4 Next.js 16.4, Explained What's New in Next.js 16.4 Next.js 16.4 makes Cache Components the default for new apps. Here's what changed, from ensureStatic to agent upgrades and Turbopack, in plain English. 11 min read·Oct 07, 2026 Read article" [ref=e1108] [cursor=pointer]:
+          - /url: /blog/nextjs-16-4-whats-new
+          - generic [ref=e1109]:
+            - img "What's New in Next.js 16.4" [ref=e1110]
+            - generic [ref=e1112]: Next.js 16.4, Explained
+          - generic [ref=e1114]:
+            - heading "What's New in Next.js 16.4" [level=3] [ref=e1115]
+            - paragraph [ref=e1116]: Next.js 16.4 makes Cache Components the default for new apps. Here's what changed, from ensureStatic to agent upgrades and Turbopack, in plain English.
+            - generic [ref=e1117]:
+              - generic [ref=e1118]:
+                - generic [ref=e1119]: 11 min read
+                - text: ·
+                - time [ref=e1120]: Oct 07, 2026
+              - generic [ref=e1121]: Read article
+        - link "How to Optimize a Next.js Web App Optimize Your Next.js App How to Optimize a Next.js Web App Practical techniques to fix your Next.js Lighthouse score — bundle analysis, caching strategies, React Compiler, and the next.config flags nobody talks about. 16 min read·Apr 14, 2026 Read article" [ref=e1128] [cursor=pointer]:
+          - /url: /blog/how-to-optimize-a-nextjs-web-app
+          - generic [ref=e1129]:
+            - img "How to Optimize a Next.js Web App" [ref=e1130]
+            - generic [ref=e1132]: Optimize Your Next.js App
+          - generic [ref=e1134]:
+            - heading "How to Optimize a Next.js Web App" [level=3] [ref=e1135]
+            - paragraph [ref=e1136]: Practical techniques to fix your Next.js Lighthouse score — bundle analysis, caching strategies, React Compiler, and the next.config flags nobody talks about.
+            - generic [ref=e1137]:
+              - generic [ref=e1138]:
+                - generic [ref=e1139]: 16 min read
+                - text: ·
+                - time [ref=e1140]: Apr 14, 2026
+              - generic [ref=e1141]: Read article
+    - generic [ref=e1153]:
+      - generic [ref=e1155]:
+        - paragraph [ref=e1156]: My Site
+        - heading "Explore, experiment && say hello" [level=2] [ref=e1157]: Explore, experiment&& say hello
+      - generic [ref=e1158]:
+        - link [ref=e1160] [cursor=pointer]:
+          - /url: /uses
+          - generic [ref=e1162]:
+            - generic [ref=e1164]:
+              - generic [ref=e1165]: Zen
+              - generic [ref=e1168]: Ghostty
+              - generic [ref=e1171]: herdr
+              - generic [ref=e1174]: Claude Code
+              - generic [ref=e1177]: Zed
+              - generic [ref=e1180]: Linear
+              - generic [ref=e1182]: Obsidian
+              - generic [ref=e1185]: Vorssaint
+              - generic [ref=e1188]: 1Password
+              - generic [ref=e1190]: Cleanshot X
+              - generic [ref=e1192]: Screen Studio
+              - generic [ref=e1194]: Spotify
+            - paragraph: MacBook M5 Pro · 24GB · 1TB
+          - generic:
+            - paragraph: Workstation
+            - paragraph: Everything on my desk and dock
+        - link [ref=e1201] [cursor=pointer]:
+          - /url: /about
+          - generic [ref=e1204]:
+            - generic [aria-hidden] [ref=e1208]: aayushbharti.in · aayushbharti.in · aayushbharti.in · aayushbharti.in · aayushbharti.in · aayushbharti.in
+            - img "Aayush Bharti" [ref=e1217]
+          - generic:
+            - paragraph: Behind The Code
+            - paragraph: Journey, skills & experience
+        - link [ref=e1222] [cursor=pointer]:
+          - /url: /guestbook
+          - figure "Notes from the guestbook" [ref=e1224]:
+            - blockquote [ref=e1225]:
+              - generic [ref=e1230]:
+                - paragraph [ref=e1231]: AMAZING!!! beautifully designed. very unique. thoughtfully put together.
+                - generic [ref=e1232]: — Charvi Vatsh
+            - blockquote [ref=e1243]:
+              - generic [ref=e1248]:
+                - paragraph [ref=e1249]: The best software engineer portfolio I've ever seen.
+                - generic [ref=e1250]: — Arthur Ferreira Costa
+            - blockquote [ref=e1261]:
+              - generic [ref=e1266]:
+                - paragraph [ref=e1267]: Loved your website. perfect blending example of interface and experience!
+                - generic [ref=e1268]: — Dhruv Panchal
+            - blockquote [ref=e1279]:
+              - generic [ref=e1285]:
+                - paragraph [ref=e1286]: Yo Aayush. Your website is looking better by the day. Really impressive work 🎉
+                - generic [ref=e1287]: — Jono
+            - generic [aria-hidden] [ref=e1298]:
+              - generic [ref=e1301]: POST CARD
+              - generic [ref=e1303]: Your note here →
+          - generic:
+            - paragraph: Guestbook
+            - paragraph: Sign the wall, leave a note
+    - generic [ref=e1318]:
+      - generic [ref=e1322]:
+        - img [ref=e1325]:
+          - generic [ref=e1327]: OPEN TO WORK · OPEN TO WORK ·
+        - generic [ref=e1328]: OPEN TO WORK · OPEN TO WORK ·
+      - generic [ref=e1354]:
+        - heading "GOT AN IDEA WORTH BUILDING?" [level=3] [ref=e1355]
+        - heading "LET'S TALK IT THROUGH" [level=3] [ref=e1356]
+      - link "Start a conversation" [ref=e1357] [cursor=pointer]:
+        - /url: /contact
+      - paragraph [ref=e1365]: I'm taking on freelance projects and open to full-time roles.
+      - paragraph [ref=e1366]: Tell me what you're working on.
+  - contentinfo [ref=e1372]:
+    - generic [ref=e1374]:
+      - generic [ref=e1375]:
+        - navigation "Footer" [ref=e1376]:
+          - generic [ref=e1377]:
+            - heading "Work" [level=2] [ref=e1378]
+            - list [ref=e1379]:
+              - listitem [ref=e1380]:
+                - link "Projects" [ref=e1381] [cursor=pointer]:
+                  - /url: /projects
+              - listitem [ref=e1382]:
+                - link "Blog" [ref=e1383] [cursor=pointer]:
+                  - /url: /blog
+              - listitem [ref=e1384]:
+                - link "About" [ref=e1385] [cursor=pointer]:
+                  - /url: /about
+              - listitem [ref=e1386]:
+                - link "Uses" [ref=e1387] [cursor=pointer]:
+                  - /url: /uses
+          - generic [ref=e1388]:
+            - heading "Site" [level=2] [ref=e1389]
+            - list [ref=e1390]:
+              - listitem [ref=e1391]:
+                - link "Guestbook" [ref=e1392] [cursor=pointer]:
+                  - /url: /guestbook
+              - listitem [ref=e1393]:
+                - link "Bucket List" [ref=e1394] [cursor=pointer]:
+                  - /url: /bucket-list
+              - listitem [ref=e1395]:
+                - link "Links" [ref=e1396] [cursor=pointer]:
+                  - /url: /links
+              - listitem [ref=e1397]:
+                - link "Contact" [ref=e1398] [cursor=pointer]:
+                  - /url: /contact
+          - generic [ref=e1399]:
+            - heading "Social" [level=2] [ref=e1400]
+            - list [ref=e1401]:
+              - listitem [ref=e1402]:
+                - link "GitHub" [ref=e1403] [cursor=pointer]:
+                  - /url: https://github.com/aayushbharti
+              - listitem [ref=e1404]:
+                - link "LinkedIn" [ref=e1405] [cursor=pointer]:
+                  - /url: https://linkedin.com/in/iaayushbharti
+              - listitem [ref=e1406]:
+                - link "X" [ref=e1407] [cursor=pointer]:
+                  - /url: https://x.com/iaayushbharti
+        - generic [ref=e1409]:
+          - generic [ref=e1410]:
+            - term [ref=e1411]: Local time
+            - definition [ref=e1412]: 9:26 AM IST · Remote, India
+          - generic [ref=e1413]:
+            - term [ref=e1414]: Email
+            - definition [ref=e1415]:
+              - button [ref=e1416] [cursor=pointer]:
+                - text: hello@aayushbharti.in
+                - img "Copy email" [ref=e1418]
+      - generic [ref=e1420]:
+        - paragraph [ref=e1421]: © 2026 Aayush Bharti
+        - generic [ref=e1422]:
+          - list [ref=e1423]:
+            - listitem [ref=e1424]:
+              - link "Privacy" [ref=e1425] [cursor=pointer]:
+                - /url: /legal/privacy
+            - listitem [ref=e1426]:
+              - link "Terms" [ref=e1427] [cursor=pointer]:
+                - /url: /legal/terms
+            - listitem [ref=e1428]:
+              - link "Sitemap" [ref=e1429] [cursor=pointer]:
+                - /url: /sitemap.xml
+            - listitem [ref=e1430]:
+              - link "RSS" [ref=e1431] [cursor=pointer]:
+                - /url: /blog/rss.xml
+            - listitem [ref=e1432]:
+              - link "llms.txt" [ref=e1433] [cursor=pointer]:
+                - /url: /llms.txt
+          - group "Theme" [ref=e1434]:
+            - button "Light theme" [ref=e1436] [cursor=pointer]
+            - button "System theme" [ref=e1439] [cursor=pointer]
+            - button "Dark theme" [pressed] [ref=e1442] [cursor=pointer]
+      - generic [ref=e1446]:
+        - generic [ref=e1447]: A
+        - generic [ref=e1448]: a
+        - generic [ref=e1449]: "y"
+        - generic [ref=e1450]: u
+        - generic [ref=e1451]: s
+        - generic [ref=e1452]: h
+        - generic [ref=e1454]: B
+        - generic [ref=e1455]: h
+        - generic [ref=e1456]: a
+        - generic [ref=e1457]: r
+        - generic [ref=e1458]: t
+        - generic [ref=e1459]: i
+  - alert [ref=e1460]
