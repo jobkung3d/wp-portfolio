@@ -2,7 +2,7 @@
 
 export default defineConfig({
   worker: defineWorker({
-    name: "worachat-portfolio",
+    name: "wp-portfolio",
     entrypoint: "vinext/server/fetch-handler",
     compatibilityDate: "2026-11-11",
     assets: {

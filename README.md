@@ -49,7 +49,7 @@ npm run start
 
 Configuration follows the [official vinext Workers setup](https://vinext.dev/docs/deploying/cloudflare). `vite.config.ts` connects vinext to the Cloudflare RSC and SSR environments; `cloudflare.config.ts` defines the Worker and static assets.
 
-The Worker is named `worachat-portfolio`. The current configuration has no shared CDN cache, no persistent data cache, and no Cloudflare Images binding or image optimizer. Project image files remain available as static assets. These optional services can be configured later.
+The Worker is named `wp-portfolio`. The current configuration has no shared CDN cache, no persistent data cache, and no Cloudflare Images binding or image optimizer. Project image files remain available as static assets. These optional services can be configured later.
 
 After installing dependencies, generate Worker types and check the migration:
 
