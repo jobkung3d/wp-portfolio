@@ -2490,6 +2490,10 @@ footer a:hover {
   .modal p {
     font-size: 12px;
   }
+
+  .preview-arrow {
+    bottom: 20px;
+  }
 }
 
 /* Refinements from the first desktop and mobile screenshot comparison. */
