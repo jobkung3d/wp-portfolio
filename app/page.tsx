@@ -321,7 +321,7 @@ export default function Home() {
         <div className="mobile-navigation-content">
           <div className="mobile-navigation-heading">
             <span>Navigation</span>
-            <button aria-label="Close navigation" onClick={() => setMenu(false)} autoFocus>
+            <button aria-label="Close navigation" onClick={() => setMenu(false)}>
               <X size={22} />
             </button>
           </div>
